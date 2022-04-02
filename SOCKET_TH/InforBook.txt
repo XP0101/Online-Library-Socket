@@ -1,0 +1,6 @@
+001, Doremon tap 1, Truyen tranh, Fujiko Fujio, 1969, 001.txt
+002, Doremon tap 2, Truyen tranh, Fujiko Fujio, 1969, 002.txt
+003, Doremon tap 3, Truyen tranh, Fujiko Fujio, 1969, 003.txt
+004, Tuoi tho du doi, Van hoc, Phung Quan, 1986, 004.pdf
+005, Anh chang Hobbits, Van hoc, J. R. R. Tolkien, 1937, 005.pdf
+006, Bo gia, Van hoc, Mario Puzo, 1969, 006.pdf
